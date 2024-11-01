@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include "conio.h"
 #include "header_PRODUIT.h"
-fuck
 int main (){
   c_textcolor(4);
   printf("\nHello chickens\n");
